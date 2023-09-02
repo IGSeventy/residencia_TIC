@@ -13,5 +13,6 @@ int main() {
     cout << "Subtração: " << fixed << setprecision(2) << A-B << endl;
     cout << "Multiplicação: " << fixed << setprecision(2) << A*B << endl;
     cout << "Divisão: " << fixed << setprecision(2) << fixed << setprecision(2) << A/B << endl;
+    
     return 0;
 }

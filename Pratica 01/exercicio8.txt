@@ -1,0 +1,9 @@
+Instalei essas duas novas extensões:
+- C/C++ Extension Pack;
+- WSL;
+
+A extensão C/C++ Extension Pack traz um pacote de melhorias para o ambiente de programação em c++ do Visual Studio Code que vão deste extensão de capacidade com ferramentas
+mais avançadas até temas pesonalizaveis.
+
+Já a extensão WSL me permite executar um ambinte Linux no windows O WSL permite que você utilize um ambiente Linux, incluindo suas ferramentas e aplicativos de linha de comando, 
+diretamente no Windows. 

@@ -1,0 +1,5 @@
+As seguintes extensões estão instaladas na minha IDE: 
+- C/C++;
+- C/C++ Compile Run;
+
+
